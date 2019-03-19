@@ -1,0 +1,16 @@
+table {
+    /*width:50%*/
+    border-collapse: collapse
+}
+
+th,
+td {
+    border-style: ridge;
+    border-width: 1px;
+    padding: 5px;
+}
+
+th {
+    border-color: aqua;
+    text-align: center;
+}
