@@ -1,0 +1,28 @@
+#col1 {
+    background-color: beige;
+    height: 180px;
+}
+
+#col2 {
+    background-color: #00BCD4;
+    height: 180px;
+}
+
+#col3 {
+    background-color: #f8f9fa;
+    height: 180px;
+}
+
+#col4 {
+    background-color: rgba(0, 0, 0, .075);
+    height: 180px;
+}
+
+#img {
+    background-color: #9E9E9E;
+}
+
+#text {
+    background-color: var(--light);
+    height: 180px;
+}
