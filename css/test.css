@@ -230,3 +230,27 @@ a:active {
 .list-icons .list-inline-item i:hover {
     color: #6c0c05;
 }
+
+
+/* Icon Box */
+
+.icon-box {
+    text-align: center;
+    display: inline-block;
+    margin-right: 60px;
+    padding-top: 40px;
+}
+
+.icon-box:last-child {
+    margin-right: 0;
+}
+
+.icon-box i {
+    font-size: 60px;
+    color: #868e96;
+}
+
+.icon-box p {
+    color: rgb(2, 36, 51);
+    padding-top: 30px;
+}
