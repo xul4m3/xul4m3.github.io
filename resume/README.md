@@ -17,6 +17,6 @@
 
 
 8.reference:
-[Link][1][Link][2]
-[1]:https://themewagon.com/themes/free-bootstrap-resume-template-multiple-versions/
-[2]:https://themewagon.com/themes/free-bootstrap-4-cv-template-download/
+https://themewagon.com/themes/free-bootstrap-resume-template-multiple-versions/
+
+https://themewagon.com/themes/free-bootstrap-4-cv-template-download/
